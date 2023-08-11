@@ -1,6 +1,6 @@
 # Analysis code
 
-All code is presented in `ipython` notebooks. 
+Code is mainly presented in `ipython` notebooks. 
 
 - Main analysis: `AAI_RT_analysis.ipynb`
 - AAI and RT time data: `msc_collated_data_20230709.csv`
